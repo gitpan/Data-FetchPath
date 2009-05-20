@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Data-FetchPath
-version:            0.01
+version:            0.02
 abstract:           "eval"able paths to your complex data values
 author:
     - Curtis "Ovid" Poe <ovid@cpan.org>
